@@ -1,0 +1,30 @@
+@media only screen and (min-width: 375px) {
+}
+@media (max-width: 480px) {
+}
+@media only screen and (min-width: 768px) {
+}
+@media only screen and (min-width: 1400px) {
+	.stock-overview {
+		height: 150px !important;
+		margin-bottom: 1rem !important;
+	}
+	.technical-analysis {
+		height: 130% !important;
+	}	
+	.market-movers {
+		height: 600px !important;
+	}
+	.market_overview {
+		height: 600px !important;
+	}
+	.economic_calendar {
+		height: 600px !important;
+	}
+}
+@media only screen and (min-width:1439px){	
+}
+@media only screen and (min-width: 1679px) {
+}
+@media only screen and (min-width: 1919px) {
+}
